@@ -1,4 +1,4 @@
-#a simple todo list
+#a simple todo list  made with reactjs
 
 functionality:
 <br>
